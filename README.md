@@ -5,10 +5,10 @@ This repository showcases data analysis projects and implementations of large-sc
 
 ### Project Descriptions:
 
-1. **Least Squares Illumination Problem**
+1. ***Least Squares Illumination Problem***
 2. **SVD Classification of Handwritten Digits**
 3. **PageRank in Stanford Web Pages**
 
-For detailed project descriptions, code, and assignments, please navigate to the corresponding folders. Each folder contains an IPython notebook (`*.ipynb`) with the code implementation and an assignment document.
+Each folder contains an IPython notebook (`*.ipynb`) with the code implementation, an assignment document and an associated data file.
 Your feedback and contributions are always appreciated.
 
