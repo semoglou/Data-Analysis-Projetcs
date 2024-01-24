@@ -3,7 +3,7 @@
 
 This repository showcases data analysis projects and implementations of large-scale numerical linear algebra algorithms. As part of my Master's in Business Mathematics program, these projects explore the intersection of mathematical analysis, business applications, and data-driven insights.
 
-### Project Descriptions:
+### Projects:
 
 1. **Least Squares Illumination Problem**
 2. **SVD Classification of Handwritten Digits**
