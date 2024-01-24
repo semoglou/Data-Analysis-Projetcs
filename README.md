@@ -10,5 +10,3 @@ This repository showcases data analysis projects and implementations of large-sc
 3. **PageRank in Stanford Web Pages**
 
 Each folder contains an IPython notebook (`*.ipynb`) with the code implementation, an assignment document and an associated data file.
-Your feedback and contributions are always appreciated.
-
