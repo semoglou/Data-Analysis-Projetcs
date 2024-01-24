@@ -14,5 +14,6 @@ This repository showcases data analysis projects and implementations of large-sc
 3. **PageRank in Stanford Web Pages:**
    Implement the PageRank algorithm to analyze and rank web pages from the Stanford University dataset. This project provides insights into link analysis, network structure, and the significance of individual web pages within a large-scale network.
 
-
+For detailed project descriptions, code, and assignments, please navigate to the corresponding folders. Each folder contains an IPython notebook (`*.ipynb`) with the code implementation and an assignment document.
+Your feedback and contributions are always appreciated.
 
