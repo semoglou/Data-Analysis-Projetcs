@@ -15,10 +15,6 @@ This repository showcases data analysis & machine learning projects and implemen
    - Investigate the application of the PageRank algorithm to analyze and rank web pages within the Stanford University dataset.
    - Explore strategies for improving a website's ranking.
 
-Absolutely, let's highlight the uniqueness and impact of your work:
-
-
-
 ### Achievement
 My work set the standard for excellence in our class, marked by innovative solutions and unparalleled depth of analysis.
 
