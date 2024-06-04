@@ -21,7 +21,7 @@ This repository showcases data analysis & machine learning projects and implemen
 
 ### Achievement:
 
-My work set the standard for excellence in our class, marked by innovative solutions and unparalleled depth of analysis.
+My work set the standard for excellence in our class, marked by innovative solutions.
 
  
 
