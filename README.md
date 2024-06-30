@@ -8,7 +8,7 @@ This repository showcases data analysis & machine learning projects and implemen
 
 ***
 
-### Projects
+### Projects Overview
 
 1. **Least Squares Illumination Problem**
    - Explore the efficient solutions to the least squares illumination problem.
