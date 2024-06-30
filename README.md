@@ -9,7 +9,7 @@ This repository showcases data analysis & machine learning projects and implemen
 ### **Projects**
 
 1. **Least Squares Illumination Problem**
-   - Explore the efficient solutions to the least squares illumination problem.
+   - Explore the efficient solutions to the least squares illumination problem, aiming to optimize light distribution with minimal error.
 
 2. **SVD Classification of Handwritten Digits**
    - Implement Singular Value Decomposition (SVD) for the classification of handwritten digits, leveraging numerical linear algebra for enhanced accuracy.
