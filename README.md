@@ -1,5 +1,4 @@
-# <div align="center">  Data Analysis Projects
-### <div align="center">  Data Analysis and Large-Scale Numerical Linear Algebra projects 
+# <div align="center">  Data Analysis and Large-Scale Numerical Linear Algebra projects
 
 <div id="header" align="center">
   <img src="https://cdn.dribbble.com/users/43762/screenshots/1193020/line-graph-dribbbble.gif" width="350"/>
