@@ -1,9 +1,5 @@
 ## <div align="center">  Data Analysis and Large-Scale Numerical Linear Algebra projects
 
-<div id="header" align="center">
-  <img src="https://cdn.dribbble.com/users/43762/screenshots/1193020/line-graph-dribbbble.gif" width="350"/>
-</div>
-
 This repository showcases data analysis & machine learning projects and implementations of large-scale numerical linear algebra algorithms. As part of my Master's in Business Mathematics program, these projects explore the intersection of mathematical analysis, business applications, and data-driven insights.
 
 ***
@@ -24,4 +20,4 @@ This repository showcases data analysis & machine learning projects and implemen
 
 ### **Achievement**
 
-My work set the standard for excellence in our class, marked by innovative solutions.
+My work has been recognized for setting the standard for excellence in our class, marked by innovative solutions and rigorous analysis.
