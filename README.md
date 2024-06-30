@@ -1,4 +1,4 @@
-## <div align="center">  Data Analysis and Large-Scale Numerical Linear Algebra projects
+## <div align="center">  Data Analysis and Large-Scale Numerical Linear Algebra Projects
 
 ### **Overview**
 
