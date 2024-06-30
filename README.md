@@ -20,6 +20,6 @@ This repository showcases data analysis & machine learning projects and implemen
 
 ***
 
-### **Achievement**
+### **Achievement** 🏆 
 
 My work has been recognized for setting the standard for excellence in our class, marked by innovative solutions and rigorous analysis.
